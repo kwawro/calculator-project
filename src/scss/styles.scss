@@ -1,0 +1,15 @@
+
+.Form {
+    margin: 50px 0;
+
+    .react-datepicker {
+        &-wrapper,
+        &__input-container {
+            display: block;
+        }
+    }
+}
+
+.Table {
+    margin: 50px 0;
+}
